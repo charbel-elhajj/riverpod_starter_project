@@ -1,17 +1,31 @@
 # riverpod_starter_project
 
-A new Flutter project.
+A Template project for small to medium Flutter Apps using [riverpod](https://riverpod.dev/) state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Project structure
+```
+- lib
+  - core
+    - config
+    - models
+    - repositories
+      - impl
+      - interfaces
+    - services
+      - impl
+      - interfaces
+    - style
+    - widgets
+  - features
+    - example_feature
+      - providers
+      - views
+      - widgets
+  - app.dart
+  - injection container
+  - main.dart
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# riverpod_starter_project
