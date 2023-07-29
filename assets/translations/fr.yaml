@@ -1,0 +1,9 @@
+counter:
+  title: "Compteur"
+
+settings:
+  title: "Paramétrages"
+
+movie:
+  search:
+    title: "Chercher un film"

@@ -1,0 +1,9 @@
+counter:
+  title: "Counter Page"
+
+settings:
+  title: "Settings Page"
+
+movie:
+  search:
+    title: "Find a movie"
