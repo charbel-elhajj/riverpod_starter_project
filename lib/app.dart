@@ -4,7 +4,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpod_starter_project/core/config/routes.dart';
 
 import 'core/style/theme.dart';
-import 'core/widgets/connectivity_wrapper.dart';
+import 'core/widgets/configuration_wrapper.dart';
 import 'features/settings/providers/language_provider.dart';
 
 class App extends ConsumerStatefulWidget {
